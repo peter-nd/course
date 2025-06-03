@@ -1,5 +1,0 @@
-streamlit==1.24.1
-gpxpy==1.4.2
-numpy>=1.25.1
-matplotlib==3.8.1
-scipy==1.11.1
